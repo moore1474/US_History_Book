@@ -528,14 +528,62 @@ Colonial America’s history is thus a rich tapestry of **regions and peoples**:
 # The Revolutionary Era (1763–1789)
 
 ## Introduction  
+
 The Revolutionary Era in American history (1763–1789) was a tumultuous period that saw thirteen British colonies transform into an independent nation under a new Constitution. This narrative-driven history will explore the era’s key phases: the **Stamp Act Crisis (1765)** that sparked colonial resistance, the **American Revolution (1775–1783)** with its major battles and political milestones, and the **Articles of Confederation Period (1781–1789)** when the fledgling United States struggled to govern itself. Throughout these years, Americans balanced war and diplomacy, military battles and political developments, all while notable figures like George Washington, Thomas Jefferson, Benjamin Franklin, and others shaped the course of events. The story of the Revolutionary Era is one of protests and principles (“no taxation without representation”), battlefields from Lexington to Yorktown, and the ultimate crafting of a new Constitution to stabilize the young republic.
 
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/2560px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg" width="600">
+
+
+</p>
+<center>
+
+*John Trumbull's painting, Declaration of Independence, depicting the five-man drafting committee of the Declaration of Independence presenting their work to the Congress*
+</center>
+
+
 ## The Stamp Act Crisis (1765): Seeds of Colonial Resistance  
+
 In the wake of the French and Indian War (1754–1763), Britain faced a massive national debt and new expenses defending its expanded North American territories ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Stamp%20Act%2C%20%281765%29%2C%20in%20U,common%20revenue%20device%20in%20England)). To raise revenue, Parliament in 1765 passed the **Stamp Act**, the first direct tax imposed on the American colonies. This act required that many printed materials in the colonies (legal documents, newspapers, playing cards, etc.) carry a revenue stamp to show that the tax had been paid ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Stamp%20Act%2C%20%281765%29%2C%20in%20U,common%20revenue%20device%20in%20England)). British leaders, such as Prime Minister George Grenville, saw this as a reasonable way for colonists to help pay for their own defense costs, especially after Britain’s costly victory over France and the expenses of Pontiac’s War on the frontier ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=devastating%20effect%20of%20Pontiac%E2%80%99s%20War,common%20revenue%20device%20in%20England)). 
 
-Colonists, however, viewed the Stamp Act as a grave threat. Having enjoyed a large degree of self-governance in taxation for over a century, they resented this **“taxation without representation.”** Because the colonies had no representatives in Parliament, they argued that only their own colonial assemblies had the lawful authority to levy taxes ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Completely%20unexpected%20was%20the%20avalanche,the%20set%20of%20resolutions%20against)). News of the Stamp Act sparked an **avalanche of protest** across the colonies ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Completely%20unexpected%20was%20the%20avalanche,were%20favourites%20of%20the%20royal)). Local resistance groups formed, most famously the **Sons of Liberty**, which organized in the summer of 1765 to oppose the Act and intimidate those tasked with enforcing it ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Completely%20unexpected%20was%20the%20avalanche,as%20Englishmen%20to%20be%20taxed)) ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=as%20well%20as%20by%20riots%2C,97%2C%20Massachusetts%2C%20%2098%20John)). Mobs took to the streets to **burn stamped paper and effigies of royal officials**, ransack the homes of stamp distributors, and pressure merchants to boycott British goods. Through **riots, threats, and non-compliance**, the colonists effectively nullified the Stamp Act – very few stamps were ever actually used because people simply refused to buy them ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Completely%20unexpected%20was%20the%20avalanche,own%20representative%20assemblies%2C%20as%20had)). 
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Proof_sheet_of_one_penny_stamps_Stamp_Act_1765.jpg/440px-Proof_sheet_of_one_penny_stamps_Stamp_Act_1765.jpg" width="400">
+
+
+</p>
+<center>
+
+*A proof sheet of one penny stamps submitted for approval to the Commissioners of Stamps by their engraver on May 10, 1765*
+</center>
+
+Colonists, however, viewed the Stamp Act as a grave threat. Having enjoyed a large degree of self-governance in taxation for over a century, they resented this **“taxation without representation.”** Because the colonies had no representatives in Parliament, they argued that only their own colonial assemblies had the lawful authority to levy taxes ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Completely%20unexpected%20was%20the%20avalanche,the%20set%20of%20resolutions%20against)). News of the Stamp Act sparked an **avalanche of protest** across the colonies ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Completely%20unexpected%20was%20the%20avalanche,were%20favourites%20of%20the%20royal)). Local resistance groups formed, most famously the **Sons of Liberty**, which organized in the summer of 1765 to oppose the Act and intimidate those tasked with enforcing it ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Completely%20unexpected%20was%20the%20avalanche,as%20Englishmen%20to%20be%20taxed)) ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=as%20well%20as%20by%20riots%2C,97%2C%20Massachusetts%2C%20%2098%20John)). Mobs took to the streets to **burn stamped paper and effigies of royal officials**, ransack the homes of stamp distributors, and pressure merchants to boycott British goods. Through **riots, threats, and non-compliance**, the colonists effectively nullified the Stamp Act – very few stamps were ever actually used because people simply refused to buy them ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Completely%20unexpected%20was%20the%20avalanche,own%20representative%20assemblies%2C%20as%20had))
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/US_Sons_OfLiberty_9Stripes_Flag.svg/2560px-US_Sons_OfLiberty_9Stripes_Flag.svg.png" width="400">
+
+
+</p>
+<center>
+
+*The Sons of Liberty Flag, also known as The Rebellious Stripes, was used as a symbol of the Sons of Liberty, and of resistance against British taxation during the American Revolution*
+</center>
+
 
 Amid the unrest, more **organized resistance** took shape. In October 1765, delegates from nine colonies convened the **Stamp Act Congress** in New York – the first inter-colonial meeting of its kind in America ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=In%20addition%20to%20nonimportation%20agreements,In%20spite%20of%20the)). These moderate colonial leaders drafted petitions to the King and Parliament, outlining their **“rights and grievances”** and pleading for repeal of the Stamp Act ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=In%20addition%20to%20nonimportation%20agreements,In%20spite%20of%20the)). Colonial assemblies had already passed fiery resolutions (such as Patrick Henry’s Virginia Resolves) insisting the act was unconstitutional, but the Congress presented a united American appeal. Although their petitions were polite and cautious, Parliament rejected them ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Parliament%20for%20repeal%20of%20the,petitions%E2%80%99%20mildness%2C%20Parliament%20rejected%20them)). What Parliament could not ignore, however, was the impact of American boycotts on British merchants. As colonial **non-importation agreements** (agreements to stop importing British goods) took hold, British exporters and manufacturers felt the pinch and lobbied for the act’s repeal ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Bowing%20chiefly%20to%20pressure%20,for%20independence%20a%20decade%20later)). Bowing to this economic pressure, Parliament **repealed the Stamp Act in early 1766**, a year after it had been enacted ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Bowing%20chiefly%20to%20pressure%20,for%20independence%20a%20decade%20later)). 
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Repeal_of_the_Stamp_Act.jpg" width="400">
+
+
+</p>
+<center>
+
+*This cartoon depicts the repeal of the Stamp Act 1765 as a funeral, with Grenville carrying a child's coffin marked "born 1765, died 1766"*
+</center>
 
 Yet even in retreat, Parliament reasserted its authority. Alongside the repeal came the **Declaratory Act of 1766**, which flatly declared that Parliament had the right to make laws for the colonies “*in all cases whatsoever*” ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Bowing%20chiefly%20to%20pressure%20,for%20independence%20a%20decade%20later)). This face-saving measure warned the colonists that Britain was not ceding its supremacy, even if the Stamp Act had been withdrawn. Nonetheless, the **Stamp Act Crisis** had lasting effects. It mobilized colonists of differing backgrounds in a common cause and **nurtured a spirit of unity** among the thirteen colonies ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Declaratory%20Act%2C%20%20which%20reasserted,for%20independence%20a%20decade%20later)). For the first time, many Americans began to see themselves not just as residents of individual colonies like Massachusetts or Virginia, but as part of a larger American community with shared interests. The tactics of protest and inter-colonial cooperation forged during 1765 would serve as a **“necessary prelude”** to the larger struggle for independence that unfolded a decade later ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Declaratory%20Act%2C%20%20which%20reasserted,for%20independence%20a%20decade%20later)). The seeds of revolution were sown as the colonists learned the power of collective action against what they perceived as tyranny.
 
