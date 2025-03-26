@@ -587,10 +587,61 @@ Amid the unrest, more **organized resistance** took shape. In October 1765, dele
 
 Yet even in retreat, Parliament reasserted its authority. Alongside the repeal came the **Declaratory Act of 1766**, which flatly declared that Parliament had the right to make laws for the colonies “*in all cases whatsoever*” ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Bowing%20chiefly%20to%20pressure%20,for%20independence%20a%20decade%20later)). This face-saving measure warned the colonists that Britain was not ceding its supremacy, even if the Stamp Act had been withdrawn. Nonetheless, the **Stamp Act Crisis** had lasting effects. It mobilized colonists of differing backgrounds in a common cause and **nurtured a spirit of unity** among the thirteen colonies ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Declaratory%20Act%2C%20%20which%20reasserted,for%20independence%20a%20decade%20later)). For the first time, many Americans began to see themselves not just as residents of individual colonies like Massachusetts or Virginia, but as part of a larger American community with shared interests. The tactics of protest and inter-colonial cooperation forged during 1765 would serve as a **“necessary prelude”** to the larger struggle for independence that unfolded a decade later ([Stamp Act | History, Definition, Facts, & Riots | Britannica](https://www.britannica.com/event/Stamp-Act-Great-Britain-1765#:~:text=Declaratory%20Act%2C%20%20which%20reasserted,for%20independence%20a%20decade%20later)). The seeds of revolution were sown as the colonists learned the power of collective action against what they perceived as tyranny.
 
+
 ## Escalation and the Road to Rebellion (1766–1774)  
+
 Although the Stamp Act was repealed, the fundamental conflict over British authority remained. In the years after 1765, London continued to impose new measures, and the colonies pushed back, setting the stage for open rebellion. In 1767, Parliament passed the **Townshend Acts**, placing duties on common imports like tea, glass, paper, and paint. Once again, colonists protested taxation for revenue without their consent. They responded with boycotts of British goods and intellectual arguments emphasizing their rights. Writers like John Dickinson (in *Letters from a Farmer in Pennsylvania*) urged Americans to resist unjust taxes while still professing loyalty to the crown. Tensions flared into violence in 1770, when British soldiers stationed in Boston fired into a taunting crowd, killing five colonists in what became known as the **Boston Massacre**. Patriot propagandists like Paul Revere and Samuel Adams seized on the incident, portraying it as a bloody atrocity and martyring the victims. Under pressure, Britain repealed most of the Townshend duties (except the tax on tea, retained as a symbol of Parliament’s power), and a tense calm followed for a couple of years.
 
-That calm broke with the **Tea Act of 1773**. This act actually lowered the price of British East India Company tea (with a small tax still included), undercutting smugglers, but colonists viewed it as a trick to make them accept Parliament’s taxation authority ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=1773)). In December 1773, activists in Boston, some disguised as Mohawk Indians, boarded ships and dumped an entire shipment of taxed tea into the harbor – the infamous **Boston Tea Party** ([Battles of Lexington and Concord | National Army Museum](https://www.nam.ac.uk/explore/battle-lexington-and-concord#:~:text=Boston%C2%A0Tea%20Party)). This bold act of defiance infuriated the British government. In 1774, Parliament responded with the **Coercive Acts** – dubbed the **“Intolerable Acts”** by Americans – which aimed to punish Massachusetts and reassert imperial control. Boston’s port was closed to trade until the destroyed tea was paid for, the Massachusetts colonial charter was altered to reduce self-government, town meetings were restricted, British officials accused of crimes could be tried elsewhere, and a new Quartering Act allowed troops to be housed in private homes ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=%2A%20December%2016%20,Tea%20Party)). Rather than cow the colonists, these harsh measures only fanned the flames of resistance. Other colonies rallied to support Boston, sending food and supplies to help its people through the blockade. In September 1774, representatives from 12 colonies (all except Georgia) met as the **First Continental Congress** in Philadelphia ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=of%20the%20so,First%20Continental%20Congress%E2%80%94Carpenter%E2%80%99s%20Hall%2C%20Philadelphia)). There they declared the Intolerable Acts void, organized further economic boycotts, and urged colonies to prepare militias. Although they sent a petition to King George III seeking compromise, both sides braced for a coming conflict. By early 1775, Massachusetts was in open rebellion – local militias drilled regularly, and British troops in Boston awaited orders. The thirteen-year period of postwar disputes and political confrontation had forged an American political identity and brought the colonies to the brink of war. The stage was set for armed revolution.
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Boston_Massacre_MET_DT2086.jpg/1280px-The_Boston_Massacre_MET_DT2086.jpg" width="200">
+
+
+</p>
+<center>
+
+*The Bloody Massacre, a 1770 engraving by Paul Revere depicting the Boston Massacre in Boston in March 1770*
+</center>
+
+
+That calm broke with the **Tea Act of 1773**. This act actually lowered the price of British East India Company tea (with a small tax still included), undercutting smugglers, but colonists viewed it as a trick to make them accept Parliament’s taxation authority ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=1773)). In December 1773, activists in Boston, some disguised as Mohawk Indians, boarded ships and dumped an entire shipment of taxed tea into the harbor – the infamous **Boston Tea Party** ([Battles of Lexington and Concord | National Army Museum](https://www.nam.ac.uk/explore/battle-lexington-and-concord#:~:text=Boston%C2%A0Tea%20Party)). 
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Boston_Tea_Party_Currier_colored.jpg/600px-Boston_Tea_Party_Currier_colored.jpg" width="400">
+
+
+</p>
+<center>
+
+*This iconic 1846 lithograph by Nathaniel Currier was entitled The Destruction of Tea at Boston Harbor; the phrase "Boston Tea Party" had not yet become standard. Contrary to Currier's depiction, few of the men dumping the tea were actually disguised as Native Americans*
+</center>
+
+This bold act of defiance infuriated the British government. In 1774, Parliament responded with the **Coercive Acts** – dubbed the **“Intolerable Acts”** by Americans – which aimed to punish Massachusetts and reassert imperial control. Boston’s port was closed to trade until the destroyed tea was paid for, the Massachusetts colonial charter was altered to reduce self-government, town meetings were restricted, British officials accused of crimes could be tried elsewhere, and a new Quartering Act allowed troops to be housed in private homes ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=%2A%20December%2016%20,Tea%20Party)). 
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_able_doctor%2C_or_America_swallowing_the_bitter_draught_%28NYPL_Hades-248165-425086%29.jpg/960px-The_able_doctor%2C_or_America_swallowing_the_bitter_draught_%28NYPL_Hades-248165-425086%29.jpg" width="400">
+
+
+</p>
+<center>
+
+*This Patriot cartoon depicting the Coercive Acts as the forcing of tea on a Native American woman (a symbol of the American colonies) was copied and distributed in the Thirteen Colonies*
+</center>
+
+Rather than cow the colonists, these harsh measures only fanned the flames of resistance. Other colonies rallied to support Boston, sending food and supplies to help its people through the blockade. In September 1774, representatives from 12 colonies (all except Georgia) met as the **First Continental Congress** in Philadelphia ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=of%20the%20so,First%20Continental%20Congress%E2%80%94Carpenter%E2%80%99s%20Hall%2C%20Philadelphia)). There they declared the Intolerable Acts void, organized further economic boycotts, and urged colonies to prepare militias. Although they sent a petition to King George III seeking compromise, both sides braced for a coming conflict. By early 1775, Massachusetts was in open rebellion – local militias drilled regularly, and British troops in Boston awaited orders. The thirteen-year period of postwar disputes and political confrontation had forged an American political identity and brought the colonies to the brink of war. The stage was set for armed revolution.
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flickr_-_USCapitol_-_The_First_Continental_Congress%2C_1774.jpg/500px-Flickr_-_USCapitol_-_The_First_Continental_Congress%2C_1774.jpg" width="400">
+
+
+</p>
+<center>
+
+*Allyn Cox Mural in oil on Canvas 1973-1974 Great Experiment Hall Cox Corridors*
+</center>
 
 ## The American Revolution (1775–1783)  
 
