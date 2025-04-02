@@ -792,7 +792,43 @@ Civilians also struggled with severe **economic distress and shortages**. Becaus
        Revolutionary War: The Home Front | The American Revolution, 1763 - 1783 | U.S. History Primary Source Timeline | Classroom Materials at the Library of Congress | Library of Congress
     ](https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/american-revolution-1763-1783/revolutionary-war-home-front/#:~:text=Because%20the%20Continental%20Congress%20was,not%20worth%20a%20Continental)). By 1779–1780, the phrase “not worth a Continental” had become common, as the paper money became almost worthless ([
        Revolutionary War: The Home Front | The American Revolution, 1763 - 1783 | U.S. History Primary Source Timeline | Classroom Materials at the Library of Congress | Library of Congress
-    ](https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/american-revolution-1763-1783/revolutionary-war-home-front/#:~:text=Because%20the%20Continental%20Congress%20was,not%20worth%20a%20Continental)). Both armies requisitioned food and supplies from the countryside, often leaving farmers impoverished. Basic commodities were scarce and expensive. American soldiers themselves often went without pay, decent clothing, or even food. In the brutal winter encampment at **Valley Forge** (1777–1778), Washington’s army – thousands of men – shivered in threadbare uniforms, many without shoes, and survived on meager rations. **Disease, cold, and hunger** stalked the camp. Washington repeatedly begged Congress and the states for provisions to prevent his army from disintegrating ([General Washington in the American Revolution | George Washington's Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war/timeline#:~:text=Washington%20Arrives%20at%20Valley%20Forge)). It was a testament to his leadership and the troops’ commitment that the army held together. At Valley Forge, the troops also benefited from the training of Baron **Friedrich von Steuben**, a Prussian volunteer, who drilled the soldiers and instilled new discipline. Come spring 1778, the rejuvenated American army emerged more unified and capable – but the suffering at Valley Forge was emblematic of the **sacrifices on the home front**.
+    ](https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/american-revolution-1763-1783/revolutionary-war-home-front/#:~:text=Because%20the%20Continental%20Congress%20was,not%20worth%20a%20Continental)). 
+
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Benjamin_Franklin_nature_printed_55_dollar_front_1779.jpg/1920px-Benjamin_Franklin_nature_printed_55_dollar_front_1779.jpg" width="300">
+</p>
+
+<center>
+
+*A fifty-five dollar Continental issued in 1779.*
+</center>
+
+
+  Both armies requisitioned food and supplies from the countryside, often leaving farmers impoverished. Basic commodities were scarce and expensive. American soldiers themselves often went without pay, decent clothing, or even food. In the brutal winter encampment at **Valley Forge** (1777–1778), Washington’s army – thousands of men – shivered in threadbare uniforms, many without shoes, and survived on meager rations. **Disease, cold, and hunger** stalked the camp. Washington repeatedly begged Congress and the states for provisions to prevent his army from disintegrating ([General Washington in the American Revolution | George Washington's Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war/timeline#:~:text=Washington%20Arrives%20at%20Valley%20Forge)). 
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Washington_and_Lafayette_at_Valley_Forge.jpg/1920px-Washington_and_Lafayette_at_Valley_Forge.jpg" width="300">
+</p>
+
+<center>
+
+*A 1907 portrait of Washington and Lafayette at Valley Forge by John Ward Dunsmore.*
+</center>
+
+  It was a testament to his leadership and the troops’ commitment that the army held together. At Valley Forge, the troops also benefited from the training of Baron **Friedrich von Steuben**, a Prussian volunteer, who drilled the soldiers and instilled new discipline. Come spring 1778, the rejuvenated American army emerged more unified and capable – but the suffering at Valley Forge was emblematic of the **sacrifices on the home front**.
+
+  <br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Baron_Steuben_by_Peale%2C_1780.jpg" width="200">
+</p>
+
+<center>
+
+*Portrait of Baron Steuben by Charles Willson Peale, 1780*
+</center>
 
 **Women** played indispensable roles during these years. With tens of thousands of men away in military service, women managed farms, shops, and workshops in their absence ([
        Revolutionary War: The Home Front | The American Revolution, 1763 - 1783 | U.S. History Primary Source Timeline | Classroom Materials at the Library of Congress | Library of Congress
@@ -803,9 +839,63 @@ Civilians also struggled with severe **economic distress and shortages**. Becaus
     ](https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/american-revolution-1763-1783/revolutionary-war-home-front/#:~:text=For%20some%20African%20Americans%2C%20the,remained%20more%20promise%20than%20reality)). (This, in turn, caused some slaveholding Patriots to refuse black enlistment early on, though later the Continental Army did recruit African American soldiers out of necessity.) Native American tribes were divided, but many, particularly along the frontier, sided with the British who had tried to restrain colonial expansion. This led to violent frontier clashes, and after the war, American victory spelled disaster for many Native tribes who lost British protection. In short, the Revolutionary War’s impact rippled far beyond the battlefield – it upended social order, economies, and lives across America.
 
 ### The Tide Turns: Southern Campaign and Victory at Yorktown  
-After Saratoga and the entry of France, the British shifted their focus, adopting a “southern strategy” in 1778–1780. They believed the largely Loyalist South would be easier to reconquer and hold. British forces captured **Savannah, Georgia in 1778**, and in 1780 General Sir Henry Clinton seized **Charleston, South Carolina**, inflicting the worst American defeat of the war (an entire American army was surrendered there). British General **Charles Cornwallis** then led a campaign through the Carolinas in 1780–1781, facing fierce resistance. Although Cornwallis won a conventional victory at the Battle of **Camden** (August 1780) against American General Horatio Gates, the British soon found themselves bogged down by patriot militia tactics and a new American southern army led by General Nathanael Greene. American fighters like Francis Marion (the “Swamp Fox”) harassed British supply lines. In October 1780, frontier militia defeated a Loyalist force at **King’s Mountain**, and in January 1781, General Daniel Morgan’s troops crushed Banastre Tarleton’s British dragoons at **Cowpens** – both pivotal battles that decimated Cornwallis’s Loyalist support in the South. Greene then engaged Cornwallis in a hard-fought battle at **Guilford Courthouse, NC** (March 1781). Cornwallis technically won that battle, but his losses were so heavy that he chose to abandon the Carolinas and move into Virginia to regroup.
+After Saratoga and the entry of France, the British shifted their focus, adopting a “southern strategy” in 1778–1780. They believed the largely Loyalist South would be easier to reconquer and hold. British forces captured **Savannah, Georgia in 1778**, and in 1780 General Sir Henry Clinton seized **Charleston, South Carolina**, inflicting the worst American defeat of the war (an entire American army was surrendered there). 
 
-By mid-1781, **Virginia became the focal point**. Cornwallis joined other British units in Virginia and set up a base at **Yorktown**, on the Chesapeake Bay, to receive supplies and reinforcements by sea. This move proved fateful. George Washington, in New York with the main American army and a French army under General Rochambeau, seized the opportunity for a decisive strike. In a masterstroke of coordination, Washington rapidly marched his army south more than 400 miles, while the French Navy under Admiral de Grasse sailed from the West Indies to the Chesapeake. In September 1781, the French fleet **defeated a British naval squadron** at the Battle of the Capes, winning control of Chesapeake Bay. This cut off Cornwallis’s escape by sea ([The Yorktown Campaign | George Washington's Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war/washingtons-revolutionary-war-battles/the-yorktown-campaign#:~:text=Supported%20by%20the%20French%20army,and%20gave%20America%20its%20independence)). Washington and Rochambeau’s allied armies surrounded Cornwallis on land at Yorktown. After a three-week **siege of Yorktown**, with Franco-American forces gradually tightening the noose, Cornwallis found himself trapped. On October 19, 1781, **British General Cornwallis surrendered** his army of about 8,000 men at Yorktown ([Americans defeat the British at Yorktown | October 19, 1781](https://www.history.com/this-day-in-history/victory-at-yorktown#:~:text=Americans%20defeat%20the%20British%20at,frigate%2C%20and%2030%20transport%20ships)). The **victory at Yorktown** was the last major land battle of the war and effectively **sealed the American victory** ([Siege of Yorktown - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Yorktown#:~:text=The%20siege%20of%20Yorktown%20was,the%20surrender%20of%20General%20Cornwallis)). Supported by French soldiers and warships, Washington’s triumph at Yorktown **led directly to peace negotiations** that recognized American independence ([The Yorktown Campaign | George Washington's Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war/washingtons-revolutionary-war-battles/the-yorktown-campaign#:~:text=Supported%20by%20the%20French%20army,and%20gave%20America%20its%20independence)). When news of Yorktown reached London, it stunned Parliament and the British public. The will to continue the war evaporated, especially since Britain was also fighting France and Spain globally. Although minor skirmishes and naval engagements continued into 1782, **major hostilities in America came to an end after Yorktown**.
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Sirhenryclinton2.jpg" width="200">
+</p>
+
+<center>
+
+<center>
+
+*Sir Henry Clinton, British Commander in Chief during the American Revolution*
+</center>
+
+British General **Charles Cornwallis** then led a campaign through the Carolinas in 1780–1781, facing fierce resistance. Although Cornwallis won a conventional victory at the Battle of **Camden** (August 1780) against American General Horatio Gates, the British soon found themselves bogged down by patriot militia tactics and a new American southern army led by General Nathanael Greene. American fighters like Francis Marion (the “Swamp Fox”) harassed British supply lines. In October 1780, frontier militia defeated a Loyalist force at **King’s Mountain**, and in January 1781, General Daniel Morgan’s troops crushed Banastre Tarleton’s British dragoons at **Cowpens** – both pivotal battles that decimated Cornwallis’s Loyalist support in the South. Greene then engaged Cornwallis in a hard-fought battle at **Guilford Courthouse, NC** (March 1781). Cornwallis technically won that battle, but his losses were so heavy that he chose to abandon the Carolinas and move into Virginia to regroup.
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Lord_Cornwallis.jpg" width="200">
+</p>
+
+<center>
+
+<center>
+
+*Portrait of Lord Cornwallis by Thomas Gainsborough, 1783*
+</center>
+
+By mid-1781, **Virginia became the focal point**. Cornwallis joined other British units in Virginia and set up a base at **Yorktown**, on the Chesapeake Bay, to receive supplies and reinforcements by sea. This move proved fateful. George Washington, in New York with the main American army and a French army under General Rochambeau, seized the opportunity for a decisive strike. In a masterstroke of coordination, Washington rapidly marched his army south more than 400 miles, while the French Navy under Admiral de Grasse sailed from the West Indies to the Chesapeake. In September 1781, the French fleet **defeated a British naval squadron** at the Battle of the Capes, winning control of Chesapeake Bay. This cut off Cornwallis’s escape by sea ([The Yorktown Campaign | George Washington's Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war/washingtons-revolutionary-war-battles/the-yorktown-campaign#:~:text=Supported%20by%20the%20French%20army,and%20gave%20America%20its%20independence)). Washington and Rochambeau’s allied armies surrounded Cornwallis on land at Yorktown. 
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BattleOfVirginiaCapes.jpg/960px-BattleOfVirginiaCapes.jpg" width="300">
+</p>
+
+<center>
+
+<center>
+
+*French and British ships in battle of Chesapeake*
+</center>
+
+After a three-week **siege of Yorktown**, with Franco-American forces gradually tightening the noose, Cornwallis found himself trapped. On October 19, 1781, **British General Cornwallis surrendered** his army of about 8,000 men at Yorktown ([Americans defeat the British at Yorktown | October 19, 1781](https://www.history.com/this-day-in-history/victory-at-yorktown#:~:text=Americans%20defeat%20the%20British%20at,frigate%2C%20and%2030%20transport%20ships)). The **victory at Yorktown** was the last major land battle of the war and effectively **sealed the American victory** ([Siege of Yorktown - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Yorktown#:~:text=The%20siege%20of%20Yorktown%20was,the%20surrender%20of%20General%20Cornwallis)). Supported by French soldiers and warships, Washington’s triumph at Yorktown **led directly to peace negotiations** that recognized American independence ([The Yorktown Campaign | George Washington's Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war/washingtons-revolutionary-war-battles/the-yorktown-campaign#:~:text=Supported%20by%20the%20French%20army,and%20gave%20America%20its%20independence)). When news of Yorktown reached London, it stunned Parliament and the British public. The will to continue the war evaporated, especially since Britain was also fighting France and Spain globally. Although minor skirmishes and naval engagements continued into 1782, **major hostilities in America came to an end after Yorktown**.
+
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/2560px-Surrender_of_Lord_Cornwallis.jpg" width="500">
+</p>
+
+<center>
+
+<center>
+
+*This painting depicts the forces of British Major General Charles Cornwallis, 1st Marquess Cornwallis (1738–1805) (who was not himself present at the surrender), surrendering to French and American forces after the Siege of Yorktown (September 28 – October 19, 1781) during the American Revolutionary War.*
+</center>
+
 
 The **Treaty of Paris** was negotiated over the next two years. American diplomats Benjamin Franklin, John Adams, and John Jay secured highly favorable terms. In the final treaty signed September 3, 1783, Britain **formally recognized the independence of the United States** and agreed to generous boundaries stretching to the Mississippi River in the west ([Treaty of Paris ‑ Definition, Date & Terms | HISTORY](https://www.history.com/topics/american-revolution/treaty-of-paris#:~:text=Treaty%20of%20Paris%20%E2%80%91%20Definition%2C,east%20of%20the%20Mississippi)). The Americans, in turn, promised to respect the rights and property of Loyalists and repay British creditors – though in practice, these pledges were not fully honored, sowing seeds of future tension ([The Articles of Confederation & Foreign Concerns and Policies | American Battlefield Trust](https://www.battlefields.org/learn/articles/articles-confederation-foreign-concerns-and-policies#:~:text=One%20of%20the%20most%20pressing,and%20straining%20relations%20with%20Britain)) ([The Articles of Confederation & Foreign Concerns and Policies | American Battlefield Trust](https://www.battlefields.org/learn/articles/articles-confederation-foreign-concerns-and-policies#:~:text=violation%20of%20the%20treaty%2C%20Britain,and%20straining%20relations%20with%20Britain)). The Revolutionary War was over. Washington, having led the Continental Army to victory, made a dramatic gesture in December 1783 by resigning his commission and returning to private life, affirming the new nation’s commitment to civilian rule over the temptation of military dictatorship.
 
