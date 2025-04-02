@@ -646,22 +646,140 @@ Rather than cow the colonists, these harsh measures only fanned the flames of re
 ## The American Revolution (1775–1783)  
 
 ### Lexington and Concord: The War Begins  
+
 The **American Revolution** erupted in April 1775 with the skirmishes at **Lexington and Concord** in Massachusetts. British General Thomas Gage, governor of Massachusetts, had orders to suppress the unrest and learned that colonial militias were stockpiling arms in Concord. On the night of April 18, 1775, he dispatched about 700 Redcoat soldiers to seize the rebel munitions and possibly arrest rebel leaders. Colonists got wind of the plan – riders like Paul Revere famously galloped out to warn that “the British are coming.” At dawn on April 19, British troops confronted about 70 militiamen on the Lexington village green. In this tense face-off, a shot rang out – later immortalized as **“the shot heard ’round the world”** – though no one knows who fired first. The British volley that followed killed eight Americans at Lexington and the war was on. The Redcoats marched on to Concord, where they were met with hundreds of armed colonists who exchanged gunfire at Concord’s North Bridge. As the British force began a retreat back to Boston, **thousands of colonial militiamen** poured in from surrounding towns and ambushed them along the road. By day’s end, the Massachusetts countryside was swarming with armed patriots, and the British column suffered significant casualties during its harried retreat.
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/The_Battle_of_Lexington.jpg" width="600">
+
+
+</p>
+<center>
+
+*The Battle of Lexington depicted in a 1910 portrait by William Barnes Wollen*
+</center>
 
 The **Battles of Lexington and Concord** were small in scale but enormous in significance. They marked the **start of open warfare** between the colonies and Great Britain ([Battles of Lexington and Concord | National Army Museum](https://www.nam.ac.uk/explore/battle-lexington-and-concord#:~:text=The%20Battles%20of%20Lexington%20and,support%20the%20cause%20of%20independence)). News of this clash electrified the colonies and Britain alike. American patriots were elated that they had stood up to regular British troops, and **many fence-sitters were persuaded to take up arms in support of the cause of independence** ([Battles of Lexington and Concord | National Army Museum](https://www.nam.ac.uk/explore/battle-lexington-and-concord#:~:text=The%20Battles%20of%20Lexington%20and,support%20the%20cause%20of%20independence)) ([Battles of Lexington and Concord | National Army Museum](https://www.nam.ac.uk/explore/battle-lexington-and-concord#:~:text=%281775,support%20the%20cause%20of%20independence)). For the British, the battles were **politically disastrous** – rather than quashing a rebellion by seizing weapons, their aggression inflamed it ([Battles of Lexington and Concord | National Army Museum](https://www.nam.ac.uk/explore/battle-lexington-and-concord#:~:text=The%20Battles%20of%20Lexington%20and,support%20the%20cause%20of%20independence)) ([Battles of Lexington and Concord | National Army Museum](https://www.nam.ac.uk/explore/battle-lexington-and-concord#:~:text=%281775,support%20the%20cause%20of%20independence)). Almost immediately, colonial militia forces from across New England converged to besiege the British garrison in Boston. The Revolutionary War had begun.
 
+
 Within weeks, events accelerated. In May 1775, the **Second Continental Congress** convened in Philadelphia as a de facto national government for the rebelling colonies. The Congress authorized the formation of the **Continental Army** and on June 15 appointed **George Washington** as its Commander-in-Chief ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=%2A%20May%2010%20,Navy%20is%20established)). Washington was a respected Virginian with military experience from the French and Indian War; selecting a southerner to lead largely New England forces was also a deliberate political move to unite the colonies. Just two days after Washington’s appointment, the British and New Englanders fought the **Battle of Bunker Hill** (June 17, 1775) outside Boston. The British won that battle – seizing the Charlestown peninsula – but only after suffering over 1,000 casualties in frontal assaults against fortified American positions. The costly fight proved the Americans could stand up to British regulars, even though it also showed the colonists’ lack of ammunition. “Bunker Hill” became a rallying cry for patriot resistance. 
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Washington_promotion_by_Continental_Congress.jpg" width="600">
+
+
+</p>
+<center>
+
+*An 1876 Currier and Ives portrait of George Washington being appointed commanding general of the Continental Army*
+</center>
+
 
 Over the summer of 1775, the conflict spread. Congress sent the **Olive Branch Petition** to King George III in July, professing loyalty and asking for reconciliation, but it was **rejected** by the King who by August formally declared the colonies in rebellion ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=%2A%20June%2015%20,Americans%20take%20Montreal)). Skirmishes flared along the Canadian border as American forces undertook a failed invasion of Quebec late in the year ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=%2A%20November%2019,Battle%20of%20Quebec)). Meanwhile, General Washington arrived outside Boston to take command of the ragtag militia army besieging the city ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=%2A%20May%2010%20,Navy%20is%20established)). In early 1776, he fortified Dorchester Heights with cannons hauled from Fort Ticonderoga, compelling the British to evacuate Boston in March 1776. Though the opening year of war saw limited colonial victories, the **patriot cause continued to gain momentum and cohesion**.
 
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/1024px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg" width="200">
+
+
+</p>
+<center>
+
+*Allan Ramsay - King George III in coronation robes*
+</center>
+
 ### Declaring Independence and the Turning Point of Saratoga  
-In 1776, the conflict shifted from a fight for rights within the British Empire to an all-out struggle for **independence**. Early that year, writer Thomas Paine published **“Common Sense,”** a wildly influential pamphlet that argued it was absurd for a distant island (Britain) to rule a continent and that America should become a republic free of kings. Paine’s work sold by the tens of thousands, galvanizing public opinion in favor of a clean break ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=1776)). By summer, sentiment had swung strongly toward independence. On July 4, 1776, the Second Continental Congress adopted the **Declaration of Independence**, primarily authored by **Thomas Jefferson**. This document eloquently proclaimed that “all men are created equal” with unalienable rights, and it listed grievances against King George III to justify the colonies’ decision to **dissolve the political bands** connecting them to Britain. The Declaration transformed the Revolution’s meaning: no longer were Americans fighting simply against taxes or for self-rule within the empire – they were fighting for a new nation dedicated to liberty.
+In 1776, the conflict shifted from a fight for rights within the British Empire to an all-out struggle for **independence**. Early that year, writer Thomas Paine published **“Common Sense,”** a wildly influential pamphlet that argued it was absurd for a distant island (Britain) to rule a continent and that America should become a republic free of kings. Paine’s work sold by the tens of thousands, galvanizing public opinion in favor of a clean break ([American Revolution Timeline | American Battlefield Trust](https://www.battlefields.org/learn/articles/american-revolution-timeline#:~:text=1776)). 
 
-The war, however, was far from decided. After a brief triumph forcing the British out of Boston, the Continental Army faced a series of defeats. In the late summer and fall of 1776, British forces under General William Howe struck hard at New York. Washington’s army was outmaneuvered and soundly beaten in the **Battle of Long Island (August 1776)**, leading to the loss of New York City, which the British occupied for the remainder of the war. Washington narrowly escaped with his army, retreating across New Jersey. By December 1776, patriot morale was at a low ebb – Washington’s forces were dwindling, and many believed the rebellion might collapse. In a bold gamble, on Christmas night 1776, **Washington led a surprise attack across the icy Delaware River**, catching Hessian mercenaries at Trenton by surprise. The victory at **Trenton** on December 26, followed by another win at **Princeton** in early January 1777, provided a much-needed boost to American morale. These winter victories showed that the Continental Army was still in the fight and kept the revolutionary cause alive into the new year ([General Washington in the American Revolution | George Washington's Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war/timeline#:~:text=1777%2C%20January%203)) ([General Washington in the American Revolution | George Washington's Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war/timeline#:~:text=Continental%20Army%20soldiers%20under%20the,summer%20and%20fall%20of%201776)).
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Thomas_Paine_rev1.jpg/1024px-Thomas_Paine_rev1.jpg" width="200">
 
-The turning point of the war came in mid-late 1777 with the **Saratoga campaign**. The British strategy for that year aimed to isolate New England – seen as the hotbed of rebellion – by seizing control of New York’s Hudson River valley. General John Burgoyne led a British army south from Canada, planning to meet up with British forces coming from the west and south. But the coordinated plan unraveled: other British columns failed to unite with Burgoyne. In the forests of upstate New York, Burgoyne’s troops found themselves surrounded and outnumbered by American forces under General Horatio Gates (with significant contributions by Benedict Arnold before his later treason). In two pitched battles near Saratoga (Freeman’s Farm in September and Bemis Heights in October 1777), the Americans defeated Burgoyne’s forces. On October 17, 1777, **General Burgoyne surrendered his entire army at Saratoga**. It was an astonishing victory – the first large-scale surrender of a British army in the war. The **Battles of Saratoga** proved to be the **turning point of the American struggle for independence** ([Battle of Saratoga | George Washington's Mount Vernon](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-saratoga#:~:text=PGA%20,chief%20of%20the%20Continental%20Army)). Up to this time, the Americans had fought largely alone. Saratoga changed that by convincing foreign powers that the patriot cause could actually win. In particular, **France**, which had been secretly aiding the Americans with funds and weapons, decided to openly enter the war. 
+
+</p>
+<center>
+
+*Thomas Paine depicted in a portrait by Laurent Dabos, c. 1792*
+</center>
+
+By summer, sentiment had swung strongly toward independence. On July 4, 1776, the Second Continental Congress adopted the **Declaration of Independence**, primarily authored by **Thomas Jefferson**. This document eloquently proclaimed that “all men are created equal” with unalienable rights, and it listed grievances against King George III to justify the colonies’ decision to **dissolve the political bands** connecting them to Britain. The Declaration transformed the Revolution’s meaning: no longer were Americans fighting simply against taxes or for self-rule within the empire – they were fighting for a new nation dedicated to liberty.
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/2560px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg" width="400">
+
+
+</p>
+<center>
+
+*John Trumbull's painting, Declaration of Independence, depicting the five-man drafting committee of the Declaration of Independence presenting their work to the Congress. The painting can be found on the back of the U.S. $2 bill. The original hangs in the US Capitol rotunda. It does not represent a real ceremony; the characters portrayed were never in the same room at the same time.*
+</center>
+
+The war, however, was far from decided. After a brief triumph forcing the British out of Boston, the Continental Army faced a series of defeats. In the late summer and fall of 1776, British forces under General William Howe struck hard at New York. Washington’s army was outmaneuvered and soundly beaten in the **Battle of Long Island (August 1776)**, leading to the loss of New York City, which the British occupied for the remainder of the war. Washington narrowly escaped with his army, retreating across New Jersey. 
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/BattleofLongisland.jpg/2560px-BattleofLongisland.jpg" width="400">
+
+
+</p>
+<center>
+
+*The Battle of Long Island, a National Guard Heritage Painting by 21st century artist Domenick D'Andrea that was created for the National Guard Bureau.*
+</center>
+
+By December 1776, patriot morale was at a low ebb – Washington’s forces were dwindling, and many believed the rebellion might collapse. In a bold gamble, on Christmas night 1776, **Washington led a surprise attack across the icy Delaware River**, catching Hessian mercenaries at Trenton by surprise. The victory at **Trenton** on December 26, followed by another win at **Princeton** in early January 1777, provided a much-needed boost to American morale. These winter victories showed that the Continental Army was still in the fight and kept the revolutionary cause alive into the new year.
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg/2560px-Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg" width="400">
+</p>
+
+<center>
+
+*Washington Crossing the Delaware (1851)*
+</center>
+
+
+The turning point of the war came in mid-late 1777 with the **Saratoga campaign**. The British strategy for that year aimed to isolate New England – seen as the hotbed of rebellion – by seizing control of New York’s Hudson River valley. General John Burgoyne led a British army south from Canada, planning to meet up with British forces coming from the west and south. But the coordinated plan unraveled: other British columns failed to unite with Burgoyne. In the forests of upstate New York, Burgoyne’s troops found themselves surrounded and outnumbered by American forces under General Horatio Gates (with significant contributions by Benedict Arnold before his later treason). 
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HoratioGatesByStuart.jpeg/440px-HoratioGatesByStuart.jpeg" width="200">
+</p>
+
+<center>
+
+*Portrait of Horatio Gates c. 1794 by Gilbert Stuart*
+</center>
+
+
+In two pitched battles near Saratoga (Freeman’s Farm in September and Bemis Heights in October 1777), the Americans defeated Burgoyne’s forces. On October 17, 1777, **General Burgoyne surrendered his entire army at Saratoga**. It was an astonishing victory – the first large-scale surrender of a British army in the war. The **Battles of Saratoga** proved to be the **turning point of the American struggle for independence** ([Battle of Saratoga | George Washington's Mount Vernon](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-saratoga#:~:text=PGA%20,chief%20of%20the%20Continental%20Army)). Up to this time, the Americans had fought largely alone. Saratoga changed that by convincing foreign powers that the patriot cause could actually win. In particular, **France**, which had been secretly aiding the Americans with funds and weapons, decided to openly enter the war.
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Surrender_of_General_Burgoyne.jpg/2560px-Surrender_of_General_Burgoyne.jpg" width="400">
+</p>
+
+<center>
+
+*Surrender of General Burgoyne by John Trumbull, 1822.*
+</center>
 
 In early 1778, spurred by the Saratoga triumph, American diplomats (notably Benjamin Franklin) secured a formal **alliance with France**, bringing the critical weight of the French military and navy to the American side ([Battle of Saratoga | George Washington's Mount Vernon](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-saratoga#:~:text=PGA%20,chief%20of%20the%20Continental%20Army)). Historian Edmund Morgan aptly described Saratoga as “a great turning point of the war because it **won for Americans the foreign assistance** which was the last element needed for victory” ([Battles of Saratoga - Wikipedia](https://en.wikipedia.org/wiki/Battles_of_Saratoga#:~:text=Battles%20of%20Saratoga%20,was%20the%20last%20element)). Indeed, without the Franco-American alliance, independence might well have been out of reach ([Battle of Saratoga | George Washington's Mount Vernon](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-saratoga#:~:text=PGA%20,chief%20of%20the%20Continental%20Army)). France’s entry also prompted **Spain** to join the war against Britain (in 1779, as a French ally, though not directly allied with the American rebels). The war thus widened into a global conflict, stretching British resources thin. However, the Saratoga victory had a bittersweet footnote: it emboldened some in Congress to question Washington’s leadership in the earlier defeats. For a time, there was a whispering campaign to replace Washington with General Gates (the so-called Conway Cabal), but this attempt to sideline Washington **failed** ([Battle of Saratoga | George Washington's Mount Vernon](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-saratoga#:~:text=the%20American%20struggle%20for%20independence,chief%20of%20the%20Continental%20Army)). Washington retained his command, and his leadership through adversity continued to be crucial for the patriot cause.
+
+<br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/1280px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg" width="200">
+</p>
+
+<center>
+
+*Benjamin Franlkin, Portrait by Joseph Duplessis, 1785.*
+</center>
+
 
 ### Struggles on the Home Front and Battlefront  
 While armies clashed, the **home front** endured its own hardships and civil conflicts. The Revolutionary War touched every colony, often directly. Fighting raged not only in big set-piece battles but in raids and skirmishes that swept through farms and frontier settlements. In many ways, it was also a **civil war** among Americans. **Loyalists** (colonists who remained loyal to Britain) made up perhaps 20–30% of the population ([
